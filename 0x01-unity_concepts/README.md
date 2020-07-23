@@ -1,1 +1,1 @@
-hello\t
+hello
